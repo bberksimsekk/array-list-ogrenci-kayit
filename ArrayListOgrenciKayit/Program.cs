@@ -13,6 +13,8 @@ namespace ArrayListOgrenciKayit
         {
             ArrayList ogrenciler = new ArrayList();
 
+            //Berk Şimşek
+
             string secenek = "e";
 
             while (secenek == "e")
